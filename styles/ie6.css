@@ -1,0 +1,11 @@
+#wrap { width: 800px; margin: 40px auto 60px; }
+
+body{
+	padding-top:70px;
+}
+#wrap, #header-photo{
+	border:1px #ddd solid;
+}
+#header{
+	margin-bottom:-15px;
+}
